@@ -1,4 +1,5 @@
 <html lang="de">  
+<head><meta name="google-site-verification" content="9jG-sh1UcgZyo3nguWBya_ARB4yoB_8C-ZSOWk_HOcw" /></head>
 <body>
 
 <h1 style="font-family:Times New Roman">Analysis Band I & Band II - Lösungen</h1>
